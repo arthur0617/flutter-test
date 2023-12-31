@@ -10,7 +10,7 @@ Testes e gerenciamento de estados em um app feito no Flutter.
 | :fire: Desafio     | 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![]([https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto](https://drive.google.com/file/d/1ZPMTbUh2NwHunpoYzjqB4EjsTkoWKqju/view?usp=drive_link)#vitrinedev)
+![]([https://drive.google.com/file/d/1Inkuxa7mNc-dQz6QVPdHMJlx05a7jIlr/view?usp=sharing#vitrinedev)
 
 ## Detalhes do projeto
 
