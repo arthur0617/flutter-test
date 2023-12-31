@@ -5,7 +5,7 @@ Testes e gerenciamento de estados em um app feito no Flutter.
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Testes e gerenciamento de estados no Flutter**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
+| :label: Tecnologias | dart, flutter
 | :rocket: URL         | https://github.com/arthur0617/flutter-test
 | :fire: Desafio     | 
 
